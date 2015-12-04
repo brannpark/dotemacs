@@ -1,0 +1,357 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/brannpark/dev/github.io/blog/content/" . "posts/")
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/" . "assets/")
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/" . "layout-v11/")
+ ("/Users/brannpark/Desktop/tmp/" . "yogiyo_2.17.4/")
+ ("/Users/brannpark/Desktop/" . "tmp/")
+ ("/Users/brannpark/dev/android/mini/app/src/" . "main/")
+ ("/Users/brannpark/dev/android/" . "mini/")
+ ("/Users/brannpark/" . "Desktop/")
+ ("/Users/brannpark/dev/github.io/blog/layouts/" . "partials/")
+ ("/Users/brannpark/dev/github.io/blog/themes/redlounge/layouts/" . "partials/")
+ ("/Users/brannpark/dev/github.io/blog/themes/redlounge/" . "layouts/")
+ ("/Users/brannpark/dev/github.io/blog/themes/" . "redlounge/")
+ ("/Users/brannpark/dev/github.io/blog/" . "archetypes/")
+ ("/Users/brannpark/dev/github.io/brann_blog/" . "layouts/")
+ ("/Users/brannpark/dev/github.io/brann_blog/content/" . "posts/")
+ ("/Users/brannpark/dev/github.io/brann_blog/themes/hyde/layouts/" . "partials/")
+ ("/Users/brannpark/dev/github.io/blog_content/themes/bootlex/" . "templates/")
+ ("/Users/brannpark/dev/github.io/blog_content/themes/" . "bootlex/")
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/assets/development/sass/" . "659ba923c65c09b91a8e3bb173b693559b0933c3/")
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/assets/development/" . "sass/")
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/assets/" . "development/")
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/" . "assets/")
+ ("/Users/brannpark/dev/rails/ferrari/tmp/" . "cache/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/config/" . "initializers/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/assets/javascripts/" . "user/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/assets/" . "javascripts/")
+ ("/Users/brannpark/.emacs.d/elpa/" . "scss-mode-20150107.1400/")
+ ("/Users/brannpark/.emacs.d/" . "elpa/")
+ ("/Users/brannpark/dev/rails/ferrari/app/views/users/" . "coupons/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/jobs/" . "cartool/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/views/" . "layouts/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/controllers/" . "admin/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/controllers/api/v1/" . "client/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/controllers/api/" . "v1/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/" . "models/")
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/assets/stylesheets/user/" . "pages/")
+ ("/Users/brannpark/dev/go/src/github.com/Carffeine/ford/Godeps/_workspace/src/github.com/robfig/" . "pathtree/")
+ ("/Users/brannpark/dev/go/src/github.com/Carffeine/ford/Godeps/_workspace/src/" . "github.com/")
+ ("/Users/brannpark/dev/go/src/github.com/mattbaird/" . "elastigo/")
+ ("/Users/brannpark/dev/go/src/github.com/" . "mattbaird/")
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/api/" . "v1/")
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/user/" . "pages/")
+ ("/Users/brannpark/dev/rails/ferrari/app/jobs/" . "cartool/")
+ ("/Users/brannpark/dev/rails/ferrari/app/helpers/" . "admin/")
+ ("/Users/brannpark/dev/rails/ferrari/app/views/shared/" . "admin/")
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/javascripts/" . "admin/")
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/" . "javascripts/")
+ ("/Users/brannpark/dev/rails/ferrari/app/views/layouts/" . "admin/")
+ ("/Users/brannpark/dev/rails/ferrari/app/policies/" . "admin/")
+ ("/Users/brannpark/dev/rails/ferrari/app/views/admin/" . "coupon_meta/")
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/admin/" . "partials/")
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/" . "users/")
+ ("/Users/brannpark/dev/rails/mustang/app/assets/components/" . "carffeine-vehicles/")
+ ("/Users/brannpark/dev/rails/ferrari/db/" . "migrate/")
+ ("/Users/brannpark/dev/rails/mustang/app/assets/" . "components/")
+ ("/Users/brannpark/dev/rails/mustang/" . "app/")
+ ("/Users/brannpark/dev/rails/mustang/app/views/" . "layouts/")
+ ("/Users/brannpark/dev/rails/mustang/app/" . "assets/")
+ ("/Users/brannpark/dev/go/src/github.com/Carffeine/ford/app/" . "tmp/")
+ ("/Users/brannpark/dev/go/src/github.com/Carffeine/" . "mustang/")
+ ("/Users/brannpark/dev/rails/polymer-test/app/assets/components/" . "carffeine-vehicles/")
+ ("/Users/brannpark/dev/rails/polymer-test/app/assets/" . "components/")
+ ("/Users/brannpark/dev/go/src/github.com/Carffeine/mustang/" . "conf/")
+ ("/Users/brannpark/dev/go/src/github.com/Carffeine/mustang/app/" . "models/")
+ ("/Users/brannpark/dev/rails/" . "ferrari/")
+ ("/Users/brannpark/dev/rails/polymer-test/public/" . "html/")
+ ("/Users/brannpark/dev/rails/polymer-test/" . "app/")
+ ("/Users/brannpark/dev/rails/polymer-test/app/views/" . "layouts/")
+ ("/Users/brannpark/dev/rails/polymer-test/app/" . "assets/")
+ ("/Users/brannpark/dev/rails/ferrari/config/" . "initializers/")
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/api/v1/" . "client/")
+ ("/Users/brannpark/dev/rails/ferrari/app/views/services/" . "reservation/")
+ ("/Users/brannpark/dev/rails/ferrari/app/views/" . "services/")
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/" . "services/")
+ ("/Users/brannpark/dev/" . "android/")
+ ("/Users/" . "brannpark/")
+ ("/Users/brannpark/dev/rails/ferrari/app/" . "controllers/")
+ ("/Users/brannpark/dev/rails/ferrari/" . "tmp/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/brannpark/Desktop/tmp/baedaltong_6.1.5/"
+ "/Users/brannpark/dev/github.io/blog/content/posts/"
+ "/Users/brannpark/dev/github.io/blog/archetypes/"
+ "/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/assets/"
+ "/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/"
+ "/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/values/"
+ "/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/raw/"
+ "/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/layout-v11/"
+ "/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/layout/"
+ "/Users/brannpark/dev/android/mini/app/src/main/"
+ "/Users/brannpark/dev/github.io/blog/"
+ "/Users/brannpark/dev/github.io/blog/layouts/partials/"
+ "/Users/brannpark/dev/github.io/blog/themes/redlounge/layouts/partials/"
+ "/Users/brannpark/dev/github.io/blog/content/"
+ "/Users/brannpark/dev/github.io/blog/themes/redlounge/layouts/"
+ "/Users/brannpark/dev/github.io/brann_blog/content/posts/"
+ "/Users/brannpark/dev/github.io/brann_blog/"
+ "/Users/brannpark/dev/github.io/brann_blog/themes/hyde/layouts/partials/"
+ "/Users/brannpark/dev/github.io/brann_blog/themes/hyde/layouts/_default/"
+ "/Users/brannpark/dev/github.io/blog_content/.git/"
+ "/Users/brannpark/dev/github.io/blog_content/"
+ "/Users/brannpark/dev/github.io/blog_content/themes/bootlex/templates/"
+ "/Users/brannpark/dev/github.io/tmp/brannpark/blog_content/.git/"
+ "/Users/brannpark/"
+ "/Users/brannpark/dev/rails/tmp/ferrari/app/models/"
+ "/Users/brannpark/dev/rails/ferrari/app/models/"
+ "/Users/brannpark/dev/github.io/brannpark.github.io/"
+ "/Users/brannpark/dev/rails/ferrari/app/controllers/"
+ "/Users/brannpark/dev/rails/tmp/ferrari/app/assets/javascripts/user/"
+ "/Users/brannpark/dev/"
+ "/Users/brannpark/dev/rails/ferrari/app/controllers/services/"
+ "/Users/brannpark/dev/rails/ferrari/app/controllers/api/v1/client/"
+ "/Users/brannpark/dev/rails/tmp/ferrari/app/controllers/admin/"
+ "/Users/brannpark/dev/rails/ferrari/"
+ "/Users/brannpark/dev/rails/tmp/ferrari/"
+ "/Users/brannpark/dev/rails/ferrari/app/views/services/reservation/"
+ "/Users/brannpark/dev/rails/ferrari/lib/"
+ "/Users/brannpark/dev/rails/ferrari/app/controllers/api/"
+ "/Users/brannpark/dev/rails/ferrari/app/assets/javascripts/admin/"
+ "/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/admin/partials/"
+ "/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/admin/"
+ "/Users/brannpark/dev/rails/ferrari/app/views/admin/coupon_meta/"
+ "/Users/brannpark/dev/rails/ferrari/app/views/admin/shops/"
+ "/Users/brannpark/dev/rails/ferrari/db/"
+ "/Users/brannpark/dev/rails/ferrari/app/assets/javascripts/"
+ "/Users/brannpark/dev/rails/ferrari/app/controllers/admin/"
+ "/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/"
+ "/Users/brannpark/dev/rails/ferrari/db/migrate/"
+ "/Users/brannpark/dev/rails/ferrari/app/views/layouts/"
+ "/Users/brannpark/dev/rails/tmp/ferrari/config/initializers/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "apktool.yml"
+ "20151201_hugo_with_github_pages.md"
+ "posts.md"
+ "20151202_elcapitan_setup.md"
+ "crashlytics-build.properties"
+ "strings.xml"
+ "public.xml"
+ "attrs.xml"
+ "colors.xml"
+ "arrays.xml"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/brannpark/Desktop/tmp/baedaltong_6.1.5/" (22111 57664 0 0) "unknown/" "smali/" "res/" "original/" "assets/" "apktool.yml" "AndroidManifest.xml" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/archetypes/" (22110 49287 0 0) "posts.md" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/content/posts/" (22110 49299 0 0) "test.md" "new.md" "20151202_elcapitan_setup.md" "20151201_hugo_with_github_pages.md" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/" (22110 49186 0 0) "themes/" "static/" "README.md" "publish.sh" "layouts/" "dist/" "deploy.sh" "content/" "config.toml" "archetypes/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/lib/" (22110 43995 0 0) "x86_64/" "x86/" "mips/" "armeabi-v7a/" "armeabi/" "arm64-v8a/" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/assets/" (22110 43994 0 0) "fontawesome-webfont.ttf" "crashlytics-build.properties" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/values/" (22110 43989 0 0) "styles.xml" "strings.xml" "public.xml" "integers.xml" "ids.xml" "drawables.xml" "dimens.xml" "colors.xml" "bools.xml" "attrs.xml" "arrays.xml" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/helpers/" (22110 34724 0 0) "shops_helper.rb" "posts_helper.rb" "notice_boards_helper.rb" "magazine_helper.rb" "gzip_helper.rb" "comments_helper.rb" "cars_helper.rb" "application_helper.rb" "admin/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/controllers/" (22110 34728 0 0) "vehicles_controller.rb" "users/" "shops_controller.rb" "services/" "posts_controller.rb" "policies_controller.rb" "payment_controller.rb" "pages_controller.rb" "orders_controller.rb" "notice_boards_controller.rb" "mechanic/" "magazine_controller.rb" "diagnosis_controller.rb" "concerns/" "comments_controller.rb" "cars_controller.rb" "car_images_controller.rb" "attachfiles_controller.rb" "application_controller.rb" "api/" "admin/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/config/initializers/" (22071 11892 0 0) "wrap_parameters.rb" "sidekiq.rb" "session_store.rb" "refile.rb" "paperclip.rb" "mime_types.rb" "kaminari_config.rb" "inflections.rb" "filter_parameter_logging.rb" "elasticsearch.rb" "devise_async.rb" "devise.rb" "cookies_serializer.rb" "backtrace_silencers.rb" "aws-sdk.rb" "assets.rb" "active_job.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/" (22110 44733 0 0) "tmp/" "spec/" "run" "README.md" "Rakefile" "public/" "Procfile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "gem_graph.png" "erd.pdf" "dump.rdb" "Dockerfile" "db/" "config.ru" "config/" "Capfile" "bin/" "app/" ".ruby-version" ".ruby-gemset" ".rubocop.yml" ".rspec" ".gitignore" ".git/" ".env.sample" ".dockerignore" ".capistrano/" ".cap_tasks~" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/controllers/admin/" (22110 34728 0 0) "users_controller.rb" "top_banners_controller.rb" "shops_controller.rb" "shop_schedules_controller.rb" "shop_images_controller.rb" "shop_contents_controller.rb" "repairs_controller.rb" "receipts_controller.rb" "promotion_controller.rb" "pages_controller.rb" "offline_users_controller.rb" "mechanic_controller.rb" "diagnosis_controller.rb" "coupon_meta_controller.rb" "cars_controller.rb" "boards_controller.rb" "admin_controller.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/assets/javascripts/user/" (22110 34724 0 0) "users.coffee" "shops.js.coffee.erb" "reservations.coffee" "registration.coffee" "posts.js.coffee.erb" "pages.coffee" "orders.coffee" "magazine.coffee" "cars.coffee" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/models/" (22110 34728 0 0) "user_tracking.rb" "user.rb" "top_banner.rb" "tag.rb" "shop_schedule.rb" "shop_promotion.rb" "shop_image.rb" "shop_content.rb" "shop.rb" "service_history.rb" "reservation_history.rb" "reservation.rb" "repair_type.rb" "repair_member.rb" "rating.rb" "post.rb" "pickup_info.rb" "payment_record.rb" "payment_kakao_pay.rb" "payment_kakao_auth.rb" "password_validator.rb" "order.rb" "optional_service.rb" "offline_user.rb" "notification_setup.rb" "notification_device.rb" "notification.rb" "notice_board.rb" "coupon_meta.rb" "coupon_code.rb" "concerns/" "comment_history.rb" "comment.rb" "cartool_vehicle.rb" "cartool_service_history.rb" "cartool_repair.rb" "cartool_payment.rb" "cartool_comment_history.rb" "car_image.rb" "car_diagnosis.rb" "car.rb" "board.rb" "authentication.rb" "attachfile.rb" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/themes/redlounge/layouts/" (22110 29171 0 0) "partials/" "index.html" "_default/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/content/" (22110 29171 0 0) "posts/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/themes/redlounge/layouts/partials/" (22110 29171 0 0) "syntaxhighlight.html" "socialsharing.html" "singletop.html" "sidebarheader.html" "sidebar.html" "og.html" "meta.html" "listtop.html" "header.html" "headend.html" "footer.html" "doctype.html" "bodyend.html" "authorsocial.html" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/layouts/partials/" (22110 29171 0 0) "headend.html" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/raw/" (22110 43988 0 0) "gtm_kwkjxp" "gtm_analytics" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/layout-v11/" (22110 43989 0 0) "toast_restaurant_menu_info_order_empty.xml" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/layout-v2/" (22110 43989 0 0) "view_review_upload_image.xml" "view_review_imageview_detail.xml" "view_review_image_detal_content.xml" "toast_restaurant_menu_info_order_empty.xml" "toast_add_to_cart_royalty.xml" "toast_add_to_cart.xml" "spinner_point_item.xml" "spinner_point_dropdown_item.xml" "popup_review_violation_report.xml" "popup_poll.xml" "popup_phone_order_info_balloon.xml" "popup_phone_order_call.xml" "popup_new_notice.xml" "popup_network_fail.xml" "popup_minimum_order_v2.xml" "popup_map_searchadress.xml" "popup_flavor_v2.xml" "popup_appreview_write.xml" "popup_appreview_rating.xml" "popup_appreview_market_shortcut.xml" "popup_appreview.xml" "popup_address_history.xml" "list_restaurantlist_sticker_sectionbar.xml" "list_restaurantlist_sticker.xml" "list_restaurantlist_royalty_sectionbar.xml" "list_restaurantlist_royalty.xml" "list_restaurantlist_phoneorder.xml" "list_restaurantlist_menu_royalty.xml" "list_restaurantlist_menu_phoneorder.xml" "list_restaurantlist_menu_foodfly.xml" "list_restaurantlist_foodfly.xml" "list_restaurantlist_blank_header.xml" "list_restaurantlist_ad.xml" "list_restaurantlist.xml" "list_restaurant_review_phoneorder_with_photo.xml" "list_restaurant_review_phoneorder_empty.xml" "list_restaurant_review_phoneorder.xml" "list_restaurant_review_footer.xml" "list_restaurant_review.xml" "list_restaurant_menu_group.xml" "list_restaurant_menu_flavor.xml" "list_restaurant_menu_child.xml" "list_recent_orders_inform_header.xml" "list_recent_orders_inform.xml" "list_recent_order_phoneorder.xml" "list_recent_order_group_section.xml" "list_recent_order_group_blank.xml" "list_recent_order_group.xml" "list_recent_order_child.xml" "list_notice2.xml" "list_notice.xml" "list_host.xml" "list_drawer_menu_royalty_header.xml" "list_drawer_menu_royalty.xml" "list_change_address_on_rec_rest_search.xml" "list_change_address_on_map_search.xml" "list_change_address.xml" "list_basket_order_royalty.xml" "list_basket_order.xml" "list_basket.xml" "list_address_history.xml" "line.xml" "item_review_image_grid.xml" "include_thankyou_royalty_takeout_orderinfo.xml" "include_thankyou_royalty_nontakeout_orderinfo.xml" "include_sort_review_phoneorder.xml" "include_sort_filter_phoneorder.xml" "include_sort_filter_loyalty.xml" "include_sort_filter.xml" "include_sort.xml" "include_restaurantmenu_review_info_royalty.xml" "include_restaurantmenu_review_info.xml" "include_restaurantmenu_foodfly_useinfo_bottom.xml" "include_restaurantmenu_foodfly_info.xml" "include_restaurant_review_summary.xml" "include_restaurant_menu_write_review.xml" "include_restaurant_menu_tab.xml" "include_restaurant_menu_search.xml" "include_restaurant_menu_scrollview.xml" "include_restaurant_menu_photo.xml" "include_recent_order_phoneorder_headerview.xml" "include_recent_order_item_footer_v2.xml" "include_position.xml" "include_my_order_list_royalty.xml" "include_my_order_list.xml" "include_mfr_banner.xml" "include_foodfly_banner.xml" "include_empty_restaurant_list.xml" "include_empty.xml" "include_bottom_button_loyalty.xml" "include_bottom_button.xml" "include_account_body3.xml" "include_account_body2.xml" "include_account_body.xml" "fragment_yogiyo_information.xml" "fragment_webview.xml" "fragment_top100.xml" "fragment_settings.xml" "fragment_restaurant_menu_info.xml" "fragment_restaurant_list_main.xml" "fragment_restaurant_list_for_foodfly.xml" "fragment_restaurant_list.xml" "fragment_restaurant_detail_top_info.xml" "fragment_restaurant_detail_review.xml" "fragment_restaurant_detail_flyer.xml" "fragment_recommend_restaurant_app.xml" "fragment_recent_order.xml" "fragment_progress_dialog.xml" "fragment_notice.xml" "fragment_my_yogiyo_withdraw_user.xml" "fragment_my_yogiyo_webview.xml" "fragment_my_yogiyo_modify_myinfo.xml" "fragment_my_yogiyo_change_phone.xml" "fragment_my_yogiyo_change_password.xml" "fragment_my_yogiyo_change_nick.xml" "fragment_my_yogiyo.xml" "fragment_mfr_main.xml" "fragment_location_agreement_detail.xml" "fragment_location_agreement.xml" "fragment_join_member_page2.xml" "fragment_join_member_page1.xml" "fragment_image_crop.xml" "fragment_home_royalty.xml" "fragment_googlemap_search.xml" "fragment_googlemap_main.xml" "fragment_friends_referral.xml" "fragment_customer_serivce_orderphone.xml" "fragment_customer_serivce.xml" "fragment_change_address.xml" "fragment_account.xml" "dialog_event_popup.xml" "custom_map_marker_window.xml" "custom_map_marker.xml" "activity_zoom_imageweb.xml" "activity_zoom_imageview.xml" "activity_yogiso_payment.xml" "activity_webview.xml" "activity_thankyou_royalty.xml" "activity_thankyou.xml" "activity_test.xml" "activity_sms_verification.xml" "activity_shutdown_info.xml" "activity_restaurantlist_search.xml" "activity_restaurantlist.xml" "activity_restaurant_review_write.xml" "activity_restaurant_review_image_main.xml" "activity_restaurant_review_image_detail.xml" "activity_restaurant_review.xml" "activity_restaurant_menu_phoneorder_v2.xml" "activity_restaurant_menu_phoneorder.xml" "activity_restaurant_menu.xml" "activity_recommend_restaurant_warning.xml" "activity_recommend_restaurant_search_addr.xml" "activity_recommend_restaurant_app_complete.xml" "activity_recent_order_inform_popup.xml" "activity_okcashbag_inquiry.xml" "activity_mobilewebpage.xml" "activity_map_restaurant_location.xml" "activity_login_guest.xml" "activity_login_find_password.xml" "activity_login.xml" "activity_join_member.xml" "activity_intro_newyear.xml" "activity_image_edit.xml" "activity_fullscreen_popup.xml" "activity_drawer_royalty.xml" "activity_drawer.xml" "activity_changehost.xml" "activity_basket_order_royalty.xml" "activity_basket_order_failed.xml" "activity_basket_discount.xml" "activity_basket.xml" "action_search_cart_royalty.xml" "action_delete.xml" "action_custom_search.xml" "action_changeover.xml" "action_cart_royalty.xml" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/layout/" (22110 43989 0 0) "support_simple_spinner_dropdown_item.xml" "select_dialog_singlechoice_material.xml" "select_dialog_multichoice_material.xml" "select_dialog_item_material.xml" "notification_template_part_time.xml" "notification_template_part_chronometer.xml" "notification_template_media.xml" "notification_template_lines.xml" "notification_template_big_media_narrow.xml" "notification_template_big_media.xml" "notification_media_cancel_action.xml" "notification_media_action.xml" "messenger_button_send_white_small.xml" "messenger_button_send_white_round.xml" "messenger_button_send_white_large.xml" "messenger_button_send_blue_small.xml" "messenger_button_send_blue_round.xml" "messenger_button_send_blue_large.xml" "com_facebook_tooltip_bubble.xml" "com_facebook_login_fragment.xml" "com_facebook_activity_layout.xml" "com_appboy_webview_activity.xml" "com_appboy_text_announcement_card.xml" "com_appboy_short_news_card.xml" "com_appboy_notification.xml" "com_appboy_inappmessage_slideup.xml" "com_appboy_inappmessage_modal.xml" "com_appboy_inappmessage_full.xml" "com_appboy_feedback_activity.xml" "com_appboy_feedback.xml" "com_appboy_feed_read_indicator_holder.xml" "com_appboy_feed_header.xml" "com_appboy_feed_footer.xml" "com_appboy_feed_activity.xml" "com_appboy_feed.xml" "com_appboy_default_card.xml" "com_appboy_cross_promotion_small_card.xml" "com_appboy_captioned_image_card.xml" "com_appboy_banner_image_card.xml" "action_main.xml" "abc_simple_dropdown_hint.xml" "abc_select_dialog_material.xml" "abc_search_view.xml" "abc_search_dropdown_item_icons_2line.xml" "abc_screen_toolbar.xml" "abc_screen_simple_overlay_action_mode.xml" "abc_screen_simple.xml" "abc_screen_content_include.xml" "abc_popup_menu_item_layout.xml" "abc_list_menu_item_radio.xml" "abc_list_menu_item_layout.xml" "abc_list_menu_item_icon.xml" "abc_list_menu_item_checkbox.xml" "abc_expanded_menu_layout.xml" "abc_dialog_title_material.xml" "abc_alert_dialog_material.xml" "abc_activity_chooser_view_list_item.xml" "abc_activity_chooser_view.xml" "abc_action_mode_close_item_material.xml" "abc_action_mode_bar.xml" "abc_action_menu_layout.xml" "abc_action_menu_item_layout.xml" "abc_action_bar_view_list_nav_layout.xml" "abc_action_bar_up_container.xml" "abc_action_bar_title_item.xml" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/res/" (22110 43989 0 0) "xml/" "values-zu/" "values-zh-rTW/" "values-zh-rSG/" "values-zh-rHK/" "values-zh-rCN/" "values-xlarge-v4/" "values-xlarge-mdpi-v4/" "values-xlarge-land-v4/" "values-xhdpi-v4/" "values-w720dp-v13/" "values-w600dp-v13/" "values-w500dp-v13/" "values-w480dp-v13/" "values-w360dp-v13/" "values-vi/" "values-v21/" "values-v18/" "values-v17/" "values-v14/" "values-v13/" "values-v12/" "values-v11/" "values-uz-rUZ/" "values-ur-rPK/" "values-uk/" "values-tr/" "values-tl/" "values-th/" "values-te-rIN/" "values-te/" "values-ta-rIN/" "values-ta/" "values-sw600dp-v13/" "values-sw/" "values-sv/" "values-sr/" "values-sq-rAL/" "values-sl/" "values-sk/" "values-si-rLK/" "values-ru/" "values-ro/" "values-pt-rPT/" "values-pt-rBR/" "values-pt/" "values-port/" "values-pl/" "values-pa-rIN/" "values-pa/" "values-nl/" "values-ne-rNP/" "values-nb/" "values-my-rMM/" "values-my/" "values-ms-rMY/" "values-ms/" "values-mr-rIN/" "values-mr/" "values-mn-rMN/" "values-ml-rIN/" "values-ml/" "values-mk-rMK/" "values-mdpi-v4/" "values-lv/" "values-lt/" "values-lo-rLA/" "values-lo/" "values-ldpi-v4/" "values-large-v4/" "values-land/" "values-ky-rKG/" "values-ko/" "values-kn-rIN/" "values-kn/" "values-km-rKH/" "values-km/" "values-kk-rKZ/" "values-ka-rGE/" "values-ja/" "values-iw/" "values-it/" "values-is-rIS/" "values-in/" "values-id/" "values-hy-rAM/" "values-hu/" "values-hr/" "values-hi/" "values-hdpi-v4/" "values-h720dp-v13/" "values-gu-rIN/" "values-gu/" "values-gl-rES/" "values-fr-rCA/" "values-fr/" "values-fi/" "values-fa/" "values-eu-rES/" "values-et-rEE/" "values-et/" "values-es-rUS/" "values-es-rES/" "values-es/" "values-en-rIN/" "values-en-rGB/" "values-en-rAU/" "values-el/" "values-de/" "values-da/" "values-cs/" "values-ca/" "values-bn-rBD/" "values-bn/" "values-bg/" "values-az-rAZ/" "values-ar/" "values-am/" "values-af/" "values/" "raw/" "menu-v11/" "menu/" "layout-v21/" "layout-v2/" "layout-v17/" "layout-v13/" "layout-v11/" "layout-land/" "layout/" "drawable-xxxhdpi-v4/" "drawable-xxhdpi-v4/" "drawable-xlarge-nodpi-v4/" "drawable-xhdpi-v4/" "drawable-v11/" "drawable-tvdpi-v4/" "drawable-sw600dp-nodpi-v13/" "drawable-nodpi-v4/" "drawable-mdpi-v4/" "drawable-ldrtl-xxxhdpi-v17/" "drawable-ldrtl-xxhdpi-v17/" "drawable-ldrtl-xhdpi-v17/" "drawable-ldrtl-mdpi-v17/" "drawable-ldrtl-hdpi-v17/" "drawable-ldpi-v4/" "drawable-hdpi-v4/" "drawable-finger-v2/" "drawable/" "color-v11/" "color/" "anim/" "../" "./")
+
+ ("/Users/brannpark/dev/android/mini/app/src/main/" (22101 16105 0 0) "res/" "java/" "AndroidManifest.xml" "../" "./")
+
+ ("/Users/brannpark/dev/android/mini/app/src/" (21901 6229 0 0) "main/" "androidTest/" "../" "./")
+
+ ("/Users/brannpark/dev/android/mini/app/" (22104 5674 0 0) "src/" "proguard-rules.pro" "libs/" "build.gradle" "build/" "app.iml" "app-release.apk" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/brannpark/dev/android/mini/" (22057 63613 0 0) "settings.gradle" "mini.iml" "local.properties" "gradlew.bat" "gradlew" "gradle.properties" "gradle/" "build.gradle" "build/" "app/" "android/" ".idea/" ".gradle/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/brannpark/dev/android/" (22053 53421 0 0) "tmp/" "Payment_SD_Sample/" "mini/" "../" "./")
+
+ ("/Users/brannpark/dev/" (22110 28925 0 0) "temp/" "rails/" "nginx/" "go-uuid/" "go/" "github.io/" "etc/" "docker/" "android/" ".DS_Store" "../" "./")
+
+ ("/Users/" (21887 49407 0 0) "Shared/" "Guest/" "brannpark/" ".localized" "../" "./")
+
+ ("/Users/brannpark/Dev/" (22110 28925 0 0) "temp/" "rails/" "nginx/" "go-uuid/" "go/" "github.io/" "etc/" "docker/" "android/" ".DS_Store" "../" "./")
+
+ ("/Users/brannpark/" (22110 44004 0 0) "VirtualBox VMs/" "Public/" "Pictures/" "Music/" "Movies/" "Library/" "ecs.config" "Downloads/" "Documents/" "dev/" "Desktop/" "Applications/" ".zshrc~" ".zshrc.pre-oh-my-zsh" ".zshrc-e" ".zshrc" ".zshenv" ".zsh_history" ".zsh-update" ".zlogin" ".zcompdump-brannpark의 MacBook Pro-5.0.8" ".zcompdump" ".Xauthority" ".viminfo" ".vim/" ".travis/" ".Trash/" ".subversion/" ".ssh/" ".rvm/" ".RubyMine70/" ".rnd" ".rbenv/" ".profile" ".powconfig" ".pow/" ".oracle_jre_usage/" ".oh-my-zsh/" ".npm/" ".mysql_history" ".mongorc.js" ".mkshrc" ".local/" ".lesshst" ".histfile" ".gradle/" ".gitconfig" ".gemrc" ".gem/" ".fontconfig/" ".ferrari" ".emacs~" ".emacs.d/" ".emacs" ".ec2/" ".DS_Store" ".dockercfg" ".docker/" ".dia-etc/" ".dia/" ".dbshell" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".boot2docker/" ".bashrc" ".bash_profile" ".bash_history" ".android/" "../" "./")
+
+ ("/Users/brannpark/Desktop/" (22104 5604 0 0) "Windows 8.1/" "tmp/" "Thumbs.db" "profile.png" "Pro Android 5.pdf" "android_kcp/" ".localized" ".DS_Store" "$RECYCLE.BIN/" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/" (22110 43984 0 0) "yogiyo_2.17.4/" "resources.arsc" "res/" "README.md" "org/" "META-INF/" "dex2jar-2.0/" "classes.dex" "AndroidManifest.xml" "../" "./")
+
+ ("/Users/brannpark/Desktop/tmp/yogiyo_2.17.4/" (22110 43995 0 0) "unknown/" "smali_classes2/" "smali/" "res/" "original/" "lib/" "assets/" "apktool.yml" "AndroidManifest.xml" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/api/" (22047 11641 0 0) "v1/" "base_controller.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/lib/" (22046 7056 0 0) "tasks/" "reservation_service.rb" "obfuscate.rb" "nicepay/" "kcp/" "devise_backgrounder.rb" "capistrano/" "assets/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/layouts/" (22109 16298 0 0) "partials/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/themes/redlounge/" (22109 16298 0 0) "theme.toml" "static/" "README.md" "LICENSE.md" "layouts/" "images/" "archetypes/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog/themes/" (22109 16298 0 0) "redlounge/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/layouts/" (22108 6103 0 0) "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/content/posts/" (22109 6340 0 0) "new.md" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/content/" (22108 7412 0 0) "posts/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/" (22109 6179 0 0) "themes/" "static/" "README.md" "public/" "layouts/" "dist/" "deploy.sh" "data/" "content/" "config.toml" "archetypes/" ".git/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/themes/" (22108 8029 0 0) "vienna/" "twentyfourteen/" "tinyce/" "tachyons/" "strata/" "steam/" "startbootstrap-clean-blog/" "slim/" "simple-hugo/" "simple-a/" "shiori/" "robust/" "redlounge/" "README.md" "purehugo/" "projecthub/" "poopshow/" "polymer/" "pixyll/" "persona/" "nofancy/" "next/" "material-lite/" "material-design/" "liquorice/" "LICENSE" "lanyon/" "landing-page-hugo/" "journal/" "hyde-y/" "hyde-x/" "hyde/" "hurock/" "hugoscroll/" "hugo-zen/" "hugo-uno/" "hugo-multi-bootswatch/" "hugo-minimalist/" "hugo-mdl/" "hugo-incorporated/" "hugo-icarus/" "hugo-h5bp/" "hugo-bootswatch/" "hugo-base-theme/" "html5/" "hikari/" "herring-cove/" "heather-hugo/" "grid-side/" "greyshade/" "gindoro/" "freelancer/" "detox/" "crisp/" "creative/" "cocoa/" "casper/" "cactus/" "bootstrap/" "bootie-docs/" "beg/" "artists/" "angels-ladder/" "allegiant/" "air/" "aglaus/" "agency/" ".gitmodules" ".git/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/themes/hyde/" (22108 8240 0 0) "theme.toml" "static/" "README.md" "LICENSE.md" "layouts/" "images/" "archetypes/" ".git" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/themes/hyde/layouts/partials/" (22108 8240 0 0) "sidebar.html" "head.html" "disqus.html" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/themes/hyde/layouts/_default/" (22108 8240 0 0) "single.html" "list.html" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brann_blog/themes/hyde/layouts/" (22108 8240 0 0) "partials/" "index.html" "_default/" "404.html" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog_content/.git/" (22108 4414 0 0) "refs/" "packed-refs" "objects/" "modules/" "logs/" "info/" "index" "hooks/" "HEAD" "description" "config" "COMMIT_EDITMSG" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog_content/" (22108 4273 0 0) "www/" "themes/" "srv.pid" "requirements.txt" "publishconf.pyc" "publishconf.py" "pelicanconf.pyc" "pelicanconf.py" "pelican.pid" "output/" "Makefile" "fabfile.py" "develop_server.sh" "content/" "build.sh" ".travis.yml" ".gitmodules" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog_content/themes/bootlex/templates/" (22107 61558 0 0) "tags.html" "tag.html" "page.html" "index.html" "category.html" "categories.html" "base.html" "author.html" "article.html" "archives.html" "analytics.html" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog_content/themes/bootlex/" (22107 61558 0 0) "templates/" "static/" "screenshot.png" "README.md" "LICENSE" ".git/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog_content/themes/" (22107 61557 0 0) "bootlex/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/tmp/brannpark/blog_content/.git/" (22107 55105 0 0) "refs/" "packed-refs" "objects/" "modules/" "logs/" "info/" "index" "hooks/" "HEAD" "description" "config" "COMMIT_EDITMSG" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/tmp/brannpark/blog_content/" (22107 55141 0 0) "requirements.txt" "publishconf.py" "pelicanconf.pyc" "pelicanconf.py" "output/" "Makefile" "fabfile.py" "develop_server.sh" "content/" ".travis.yml" ".gitmodules" ".git/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/blog_content/content/" (22107 52838 0 0) "test.md" ".gitkeep" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/" (22107 52270 0 0) "brannpark.github.io/" "blog_content/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/" (22102 56651 0 0) "vehicles_controller.rb" "users/" "shops_controller.rb" "services/" "posts_controller.rb" "policies_controller.rb" "payment_controller.rb" "pages_controller.rb" "orders_controller.rb" "notice_boards_controller.rb" "mechanic/" "magazine_controller.rb" "diagnosis_controller.rb" "concerns/" "comments_controller.rb" "cars_controller.rb" "car_images_controller.rb" "attachfiles_controller.rb" "application_controller.rb" "api/" "admin/" "../" "./")
+
+ ("/Users/brannpark/dev/github.io/brannpark.github.io/" (22104 7269 0 0) "index.html" ".git/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/helpers/" (22102 53255 0 0) "users/" "shops_helper.rb" "posts_helper.rb" "notice_boards_helper.rb" "magazine_helper.rb" "gzip_helper.rb" "comments_helper.rb" "cars_helper.rb" "application_helper.rb" "admin/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/user/pages/" (22102 53255 0 0) "_services.scss" "_reservation.scss" "_registration.scss" "_promotion.scss" "_posts.scss" "_payment.scss" "_partnership.scss" "_orders.scss" "_notice_board.scss" "_magazine.scss" "_diagnosis.scss" "_coupons.scss" "_cars.scss" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/config/" (22102 53255 0 0) "unicorn/" "sidekiq_development.yml" "sidekiq.yml" "secrets.yml" "schedule.rb" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "elasticsearch.yml" "docker.database.yml" "deploy.rb" "deploy/" "database.yml.sample" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/javascripts/user/" (22102 53255 0 0) "users.coffee" "shops.js.coffee.erb" "reservations.coffee" "registration.coffee" "posts.js.coffee.erb" "pages.coffee" "orders.coffee" "magazine.coffee" "coupons.coffee" "cars.coffee" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/users/coupons/" (22102 53255 0 0) "index.html.erb" "_coupon_list.html.erb" "_available_shops_dialog.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/users/" (22102 53255 0 0) "sessions_controller.rb" "registrations_controller.rb" "passwords_controller.rb" "parameter_sanitizer.rb" "omniauth_callbacks_controller.rb" "coupons_controller.rb" "confirmations_controller.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/layouts/" (22102 53255 0 0) "mechanic.html.erb" "application_for_mobile.html.erb" "application_for_app.html.erb" "application.html.erb" "admin.html.erb" "admin/" "_touch_icon.html.erb" "_services_navigation.html.erb" "_navigation_mobile_shops_links.html.erb" "_navigation_mobile_links.html.erb" "_navigation_mechanic_mobile_links.html.erb" "_navigation_mechanic_desktop_links.html.erb" "_navigation_mechanic.html.erb" "_navigation_desktop_links.html.erb" "_navigation_admin_mobile_links.html.erb" "_navigation_admin.html.erb" "_navigation.html.erb" "_messages.html.erb" "_footer.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/db/migrate/" (22102 53255 0 0) "20151124023719_change_inquire_column_varchar_to_text_type.rb" "20151119081743_rename_table_shop_group_shops.rb" "20151118052930_add_reservation_id_to_coupon_users.rb" "20151116024015_rename_shop_group_shop.rb" "20151109083855_rename_column_top_banners_mark_as_deleted_to_status.rb" "20151106074740_add_timestamps_to_top_banners.rb" "20151106073145_add_list_sequence_to_repair_types.rb" "20151106071427_add_title_to_top_banners.rb" "20151106052218_create_top_banners.rb" "20151106043405_add_coupon_type_to_coupon_meta.rb" "20151105100225_create_shop_group_shops_join_table.rb" "20151105095942_create_shop_groups.rb" "20151105095910_create_coupon_meta_shop_groups_join_table.rb" "20151102070836_create_coupon_users.rb" "20151023073058_change_sms_received_agreement_type_of_users.rb" "20151021095322_rename_status_to_mark_as_deleted_from_shop_promotions.rb" "20151021074658_rename_signboard_title_to_corporation_title.rb" "20151021020718_add_parent_id_to_repair_types.rb" "20151020101226_add_deleted_by_to_shop_promotions.rb" "20151019080658_create_shop_promotions.rb" "20151019062845_add_signboard_title_to_shops.rb" "20151019060814_add_blog_url_to_shops.rb" "20151014065518_add_realname_to_users.rb" "20151007100023_add_admin_id_to_reservation_history.rb" "20151005014013_create_reservation_histories.rb" "20151001065022_create_join_table.rb" "20151001064551_create_tags.rb" "20150930052441_add_thumbail_to_post.rb" "20150910050537_change_payment_kakao_pays_non_repudiation_token_type_to_text.rb" "20150908055801_change_email_received_agreement_in_users.rb" "20150828070840_add_hit_to_posts.rb" "20150821100046_add_shop_id_to_diagnosis.rb" "20150820024413_rename_post_count_on_boards.rb" "20150819083956_add_user_id_to_boards.rb" "20150813074519_change_zip_code_to_pickup_infos.rb" "20150813071255_create_attachfiles.rb" "20150813071247_create_posts.rb" "20150813071239_create_boards.rb" "20150813070007_add_parent_column_to_comment.rb" "20150811065919_add_rating_columns_to_shop.rb" "20150803053049_remove_details_from_pickup_infos.rb" "20150803052902_add_applicant_to_reservations.rb" "20150731123126_add_paid_info_to_orders.rb" "20150721100312_add_pickup_info_id_to_reservations.rb" "20150721095128_create_pickup_infos.rb" "20150721081327_change_status_type_of_payment_record.rb" "20150720063101_rename_field_from_notifications.rb" "20150720030721_add_option_type_to_reservations.rb" "20150717100405_add_endpoint_arn_to_notification_devices.rb" "20150714105647_create_notifications.rb" "20150713073013_create_notification_setups.rb" "20150713044050_create_notification_devices.rb" "20150710112640_add_service_route_to_reservations.rb" "20150710045437_add_paid_order_number_to_order.rb" "20150703060800_create_payment_records.rb" "20150701042639_change_oauth_token_type_in_authentications.rb" "20150615130121_add_authentication_token_to_users.rb" "20150612081034_add_attachment_image_to_notice_boards.rb" "20150611044731_create_notice_boards.rb" "20150605085700_change_field_type_to_coupon_meta.rb" "20150602085657_change_field_type_to_shops.rb" "20150529044117_change_field_type_to_car_diagnosis.rb" "20150521091338_rename_shops_repair_types_table.rb" "20150521010514_remove_business_hours_description_from_shop_contents.rb" "20150520095402_add_details_to_shop_contents.rb" "20150519023648_create_shops_repair_types_join_table.rb" "20150518221244_add_attachment_icon_to_repair_types.rb" "20150518221235_add_attachment_image_to_shop_images.rb" "20150518090841_create_repair_types.rb" "20150518065747_create_shop_contents.rb" "20150518065711_create_shop_images.rb" "20150518063321_create_ratings.rb" "20150518063250_create_comments.rb" "20150507123117_add_coupon_meta_id_to_coupon_codes.rb" "20150507114215_create_coupon_meta.rb" "20150416083502_rename_march_coupon_code_to_coupon_code.rb" "20150413025810_add_attachment_stamp_to_shops.rb" "20150410064913_remove_unused_date_field_from_reservation.rb" "20150408020707_add_working_saturday_to_shops.rb" "20150331023646_change_field_to_shop_schedules.rb" "20150324050607_add_field_to_shops.rb" "20150318020420_drop_request.rb" "20150316153715_change_payment_kakao_pay_spu_column_to_text.rb" "20150316134403_rename_kakao_pays_card_ci_to_card_cl.rb" "20150316085436_add_non_rep_token_to_kakao_pays.rb" "20150316084449_rename_on_int_opt_to_no_int_opt.rb" "20150316081845_create_payment_kakao_pays.rb" "20150316074303_change_columns_to_shops.rb" "20150316073320_create_payment_kakao_auths.rb" "20150315094950_add_car_id_to_cartool_vehicle.rb" "20150315081740_add_reservation_to_car_diagnosis.rb" "20150314084218_add_status_to_order.rb" "20150312202816_create_optional_services.rb" "20150312143515_add_order_number_to_order.rb" "20150311074658_create_cartool_comment_histories.rb" "20150310171518_create_cartool_service_histories.rb" "20150310153527_create_comment_histories.rb" "20150310141818_create_service_histories.rb" "20150310133224_change_order_reservation_type_to_enum.rb" "20150309181836_add_user_id_to_order.rb" "20150309152925_change_reservation_status_column_to_integer.rb" "20150309115926_add_mark_as_deleted_to_user.rb" "20150309083939_add_columns_to_order.rb" "20150308173101_create_orders.rb" "20150308171424_create_cartool_vehicles.rb" "20150307083613_add_user_id_to_reservation.rb" "20150224015747_add_coupon_code_to_reservation.rb" "20150223100222_create_march_coupon_codes.rb" "20150210042518_rename_repair_to_cartool_repair.rb" "20150210024500_add_plate_number_to_cars.rb" "20150208103144_add_crud_to_cartool_payments.rb" "20150205103817_create_cartool_payments.rb" "20150204023114_add_shop_id_to_reservation.rb" "20150121074140_add_member_id_to_repairs.rb" "20150120083808_add_columns_to_repairs.rb" "20150120060945_remove_unused_field_from_repair.rb" "20150120060215_create_repair_member.rb" "20150112080847_create_repair.rb" "20141210085346_add_field_to_car_diagnoses.rb" "20141205024850_add_info_to_shop.rb" "20141128073743_change_field_users_and_shops.rb" "20141124090240_add_user_id_to_shop.rb" "20141119015130_rename_field_from_shop_schedules.rb" "20141118073821_rename_field_from_user_trackings.rb" "20141117092219_add_is_closed_flag_to_shop_schedule.rb" "20141114053052_create_shop_schedules.rb" "20141110105949_create_user_trackings.rb" "20141110105547_add_info_to_reservation.rb" "20140915080118_rename_field_from_reservation.rb" "20140915063855_add_date_field_to_reservation.rb" "20140912065735_add_field_to_reservation.rb" "20140912065623_remove_unused_field_from_reservation.rb" "20140911052132_add_mechanic_memo_to_reservation.rb" "20140902071030_create_shops.rb" "20140829041305_add_user_id_to_car.rb" "20140821050947_add_attachment_diagnosis_to_car_diagnoses.rb" "20140821050621_remove_unused_field_from_car_diagnosis.rb" "20140821045918_add_file_to_car_diagnosis.rb" "20140821045647_create_car_diagnoses.rb" "20140821044546_remove_unused_field_from_car.rb" "20140821044345_add_field_to_car.rb" "20140810120935_add_uid_to_authentication.rb" "20140804065940_create_offline_users.rb" "20140715113012_add_datetime_to_reservation.rb" "20140714150232_create_reservations.rb" "20140620091252_add_attachment_image_to_car_images.rb" "20140620091203_create_car_images.rb" "20140613084635_remove_unused_field_from_cars.rb" "20140613084346_remove_unused_field_from_users.rb" "20140610144002_add_cartool_uid_to_user.rb" "20140610115211_create_requests.rb" "20140610114504_create_cars.rb" "20140607122659_remove_unused_model_migration.rb" "20140501084807_add_confirmable_to_devise.rb" "20140416063750_add_role_to_users.rb" "20140401073405_create_mechanic_vehicles.rb" "20140401024157_add_attachment_avatar_to_users.rb" "20140328014739_add_info_to_user.rb" "20140327071821_vehicle.rb" "20140317084013_create_authentications.rb" "20140317083918_devise_create_users.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/admin/" (22102 53255 0 0) "users_controller.rb" "top_banners_controller.rb" "shops_controller.rb" "shop_schedules_controller.rb" "shop_images_controller.rb" "shop_groups_controller.rb" "shop_contents_controller.rb" "repairs_controller.rb" "receipts_controller.rb" "promotion_controller.rb" "pages_controller.rb" "offline_users_controller.rb" "mechanic_controller.rb" "diagnosis_controller.rb" "coupon_meta_controller.rb" "cars_controller.rb" "boards_controller.rb" "admin_controller.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/javascripts/" (22102 53255 0 0) "user/" "trunk8.js" "stressTest.js" "simplemde.min.js" "simplemde.carffeine.js" "set_time_zone.coffee" "readyselector.js" "payment.coffee" "mechanic.js" "mechanic/" "kakao.min.js" "foundation.datepicker.js" "application.js" "admin.js" "admin/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/db/" (22102 53255 0 0) "seeds.rb" "schema.rb" "repairs.csv" "repair_members.csv" "offline_user.csv" "migrate/" "holiday.csv" "codes_april.csv" "codes.csv" "all.json" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/admin/coupon_meta/" (22102 53255 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "edit.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/admin/" (22102 53255 0 0) "users.scss" "shops.scss" "shop_schedules.scss" "shop_groups.scss" "shop_contents.scss" "receipts.scss" "partials/" "modules/" "mechanic.scss" "main.scss" "diagnosis.scss" "coupons.scss" "boards.scss" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/admin/partials/" (22102 53255 0 0) "_typography.scss" "_topbar.scss" "_table.scss" "_sidebar.scss" "_marketing-off-canvas.scss" "_grids.scss" "_form.scss" "_footer.scss" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/javascripts/admin/" (22102 53255 0 0) "users.coffee" "top_banners.coffee" "shop_schedules.coffee" "shop_groups.coffee" "shop_contents.coffee" "repairs.coffee" "receipts.coffee" "promotion.coffee" "pages.coffee" "diagnosis.coffee" "coupon_meta.coffee" "cars.coffee" "boards.coffee" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/services/reservation/" (22102 53255 0 0) "show.html.erb" "new.html.erb" "_user_info.html.erb" "_service_type.html.erb" "_select_shop.html.erb" "_select_schedule.html.erb" "_select_coupon.html.erb" "_select_car.html.erb" "_pickup_address_search.html.erb" "_pickup_address_list.html.erb" "_pickup_address.html.erb" "_edit_pickup_address.html.erb" "_confirmation.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/" (22102 31857 0 0) "tmp/" "spec/" "run" "README.md" "Rakefile" "public/" "Procfile" "log/" "lib/" "Guardfile" "Gemfile.lock" "Gemfile" "gem_graph.png" "erd.pdf" "Dockerfile" "db/" "config.ru" "config/" "Capfile" "bin/" "app/" ".ruby-version" ".ruby-gemset" ".rubocop.yml" ".rspec" ".gitignore" ".git/" ".env.sample" ".dockerignore" ".capistrano/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/api/v1/client/" (22102 53255 0 0) "users_controller.rb" "shops_controller.rb" "sessions_controller.rb" "reservation_controller.rb" "registrations_controller.rb" "passwords_controller.rb" "orders_controller.rb" "notifications_controller.rb" "init_controller.rb" "diagnosis_controller.rb" "coupons_controller.rb" "confirmations_controller.rb" "comments_controller.rb" "cars_controller.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/services/" (22102 53260 0 0) "service_controller.rb" "reservation_controller.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/models/" (22102 53255 0 0) "user_tracking.rb" "user.rb" "top_banner.rb" "tag.rb" "shop_schedule.rb" "shop_promotion.rb" "shop_image.rb" "shop_groups_shop.rb" "shop_group.rb" "shop_content.rb" "shop.rb" "service_history.rb" "reservation_history.rb" "reservation.rb" "repair_type.rb" "repair_member.rb" "rating.rb" "post.rb" "pickup_info.rb" "payment_record.rb" "payment_kakao_pay.rb" "payment_kakao_auth.rb" "password_validator.rb" "order.rb" "optional_service.rb" "offline_user.rb" "notification_setup.rb" "notification_device.rb" "notification.rb" "notice_board.rb" "coupon_user.rb" "coupon_meta_shop_group.rb" "coupon_meta.rb" "coupon_code.rb" "concerns/" "comment_history.rb" "comment.rb" "cartool_vehicle.rb" "cartool_service_history.rb" "cartool_repair.rb" "cartool_payment.rb" "cartool_comment_history.rb" "car_image.rb" "car_diagnosis.rb" "car.rb" "board.rb" "authentication.rb" "attachfile.rb" "../" "./")
+
+ ("/Users/brannpark/.rbenv/versions/2.2.2/lib/ruby/gems/2.2.0/gems/devise-3.5.2/lib/devise/controllers/" (21969 28825 0 0) "url_helpers.rb" "store_location.rb" "sign_in_out.rb" "scoped_views.rb" "rememberable.rb" "helpers.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/assets/javascripts/" (22102 31858 0 0) "user/" "trunk8.js" "stressTest.js" "simplemde.min.js" "simplemde.carffeine.js" "set_time_zone.coffee" "readyselector.js" "payment.coffee" "mechanic.js" "mechanic/" "kakao.min.js" "foundation.datepicker.js" "application.js" "admin.js" "admin/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/assets/development/sass/659ba923c65c09b91a8e3bb173b693559b0933c3/" (22101 24956 0 0) "_all.scssc" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/assets/development/sass/" (22101 24956 0 0) "d3240ac1217ec4fd1ea16c5d2c85d52ea00228b7/" "d16504b996d46103f7e79bc7392a537b981ec20c/" "cb0d2145b2f3c4525e8aa6e32845b31f733549ce/" "ca50ed2b09f64b260b3a49843346e81a20ca2b60/" "b3e5fc8a4593f0623cb9d19089773e5c88db1956/" "b1c4c6af6c8627d8fb82ce5d97fed444720ffab0/" "af5490534a21374031b84ac9f1b4185987516d38/" "9e701226b140bfd685c66d3eb55807310d06a172/" "715818c8d634a6f70885dad09b21c26964b1fb4a/" "70419b55e1b8b61aa35c1582544dab325cf8bc38/" "6c3b9e37fc4f1f1550c9ac0139a6d0e64216fb22/" "6a3e1f94f57063bd3373c58eabc8fbc6481a22c2/" "659ba923c65c09b91a8e3bb173b693559b0933c3/" "5cfbb43fdd2e638e8b5519392853e37aaccccf61/" "5b1fefe82233aed1de21e7a734de8aab18c0da1a/" "52cdd01feca21186937a13c9b105fddfa9b9798a/" "46933c2852d4760bde2cc5905930dcde778d7192/" "3e85da5444ea680b2bbf60aaec37ac23604ae665/" "313613328c6441ce20e4dc1fbccb9d261d65ebb9/" "2fdca43cbe4cde705316eb7ffa3a134fbdc982ca/" "2abefeb2f43a94c3b2bd596e1e1345866358154e/" "1cbc73a54851355366fcf0affa23d1d0eb79105a/" "0c43fc7f711b38eb267ce304724456fe5a940a76/" "02c3029f997b415db5a99ae7ca8fd86c0620956e/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/assets/development/" (22101 24951 0 0) "sprockets/" "sass/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/assets/" (22101 24951 0 0) "development/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/tmp/cache/" (22101 24951 0 0) "assets/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/shops/" (22101 24244 0 0) "show.html.erb" "index.html.erb" "_shop_slider.html.erb" "_form_review.html.erb" "_all_reviews.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/" (22101 24244 0 0) "user/" "typo.scss" "simptip.scss" "simplemde.min.css" "shops.scss" "placeholder.scss" "payment.scss" "nanumbarungothic.scss" "mechanic.scss" "mechanic/" "framework_and_overrides.scss" "foundation.datepicker.css" "foundation.calendar.css" "comments.scss" "application.scss" "admin.scss" "admin/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/tmp/" (22094 57717 0 0) "uploads/" "sockets/" "sessions/" "pids/" "cache/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/" (22094 43859 0 0) "tmp/" "mustang/" "Gemfile.lock" "ferrari.wiki/" "ferrari/" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/app/controllers/services/" (22094 53077 0 0) "service_controller.rb" "reservation_controller.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/tmp/ferrari/config/" (22094 53077 0 0) "unicorn/" "sidekiq_development.yml" "sidekiq.yml" "secrets.yml" "schedule.rb" "routes.rb" "locales/" "initializers/" "environments/" "environment.rb" "elasticsearch.yml" "docker.database.yml" "deploy.rb" "deploy/" "database.yml.sample" "database.yml" "boot.rb" "application.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/diagnosis/" (22034 6317 0 0) "show.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/admin/diagnosis/" (22034 6317 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "_form.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/assets/stylesheets/user/" (22084 15238 0 0) "partials/" "pages/" "modules/" "main.scss" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/posts/" (22084 15238 0 0) "show.html.erb" "new.html.erb" "index.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/views/users/registrations/" (22070 53003 0 0) "new_switch_user.html.erb" "new.html.erb" "edit.html.erb" "_terms.html.erb" "_registration_method.html.erb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/jobs/cartool/" (22084 15238 0 0) "repair_job.rb" "../" "./")
+
+ ("/Users/brannpark/dev/rails/ferrari/app/controllers/api/v1/server/" (22034 6317 0 0) "sns_controller.rb" "repairs_controller.rb" "payments_controller.rb" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
